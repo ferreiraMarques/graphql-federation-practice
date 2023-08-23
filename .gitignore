@@ -1,0 +1,5 @@
+student_register/node_modules
+apigateway/node_modules
+
+student_register/package-lock.json
+apigateway/package-lock.json
